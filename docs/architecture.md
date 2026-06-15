@@ -1,8 +1,5 @@
 # System Architecture: Restaurant Recommendation System
 
-**Version:** 1.0  
-**Last Updated:** January 2026  
-**Author:** Ayush Saxena
 
 ---
 
@@ -632,7 +629,3 @@ User Request
 - Reinforcement learning (long-term user satisfaction)
 - Multi-objective optimization
 
----
-
-**Document Owner:** Ayush Saxena 
-**Last Updated:** January 2026
