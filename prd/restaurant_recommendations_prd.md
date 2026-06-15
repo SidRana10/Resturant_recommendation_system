@@ -1,10 +1,7 @@
 # Product Requirements Document (PRD)
 # Restaurant Recommendation System for Food Delivery Platform
 
-**Author:** Ayush Saxena  
-**Date:** January 2026  
-**Version:** 1.0  
-**Status:** Implementation Complete  
+
 
 ---
 
@@ -481,6 +478,3 @@ The following are explicitly **NOT included** in this release:
 - **Novelty**: Proportion of new (not previously ordered) recommendations
 
 ---
-
-**Document Owner:** Ayush Saxena  
-**Last Updated:** January 2026
