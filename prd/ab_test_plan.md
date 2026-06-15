@@ -1,11 +1,5 @@
 # A/B Test Plan: Restaurant Recommendations
 
-**Experiment Name:** ML-Powered Restaurant Recommendations V1  
-**Owner:** Ayush Saxena  
-**Date:** January 2026  
-**Status:** Ready for Launch  
-
----
 
 ## 1. Hypothesis
 
@@ -527,7 +521,3 @@ GROUP BY test_group
 ```
 
 ---
-
-**Document Owner:** Ayush Saxena  
-**Review Date:** Pre-Launch  
-**Status:** Approved for Testing
