@@ -160,11 +160,7 @@ ml-restaurant-recommendations/
 │    ├── architecture.md                    # System design and data flow
 │    ├── methodology.md                     # ML approach and evaluation
 │    └── lab_logbook.md                     # Development log
-│
-├── .gitignore                              # Git ignore patterns
-├── requirements.txt                        # Dependencies
-├── LICENSE                                 # MIT License
-└── README.md                               # This file
+
 ```
 
 ---
