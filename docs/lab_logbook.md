@@ -1,5 +1,5 @@
 # Lab Logbook: Restaurant Recommendation System   
-**Author:** Ayush Saxena
+
 
 ---
 
