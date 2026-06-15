@@ -1,11 +1,5 @@
 # Edge Cases & Error Handling
 
-**Project:** Restaurant Recommendation System  
-**Author:** Ayush Saxena
-**Date:** January 2026  
-**Version:** 1.0
-
----
 
 ## Overview
 
@@ -841,6 +835,3 @@ def test_model_timeout():
 
 ---
 
-**Document Owner:** Ayush Saxena 
-**Last Updated:** January 2026  
-**Review Cycle:** Quarterly or post-incident
