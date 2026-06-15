@@ -1,9 +1,5 @@
 # ML Methodology: Restaurant Recommendation System
 
-**Author:** Ayush Saxena  
-**Date:** January 2026  
-**Version:** 1.0
-
 ---
 
 ## Table of Contents
@@ -892,5 +888,3 @@ assert sparsity_within_bounds(data, 0.98, 0.995)
 
 ---
 
-**Document Owner:** Ayush Saxena  
-**Status:** Complete and Production-Ready
